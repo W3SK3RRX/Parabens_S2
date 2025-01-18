@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('/assets/deep-space-nebula-moewalls-com.gif') no-repeat center center fixed;
+    background: url('./assets/deep-space-nebula-moewalls-com.gif') no-repeat center center fixed;
     background-size: cover;
     font-family: Arial, sans-serif;
     color: white;
